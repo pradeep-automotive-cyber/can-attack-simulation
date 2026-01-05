@@ -26,3 +26,4 @@ using Linux SocketCAN.
 
 ## Disclaimer
 This project is for educational and research purposes only.
+This repository is part of my structured upskilling in Automotive Cybersecurity.
